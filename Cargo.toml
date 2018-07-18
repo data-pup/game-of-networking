@@ -4,4 +4,5 @@ version = "0.1.0"
 authors = ["data-pup <kevinmartinucr@gmail.com>"]
 
 [dependencies]
+lazy_static = "1.0.2"
 tokio = "0.1.7"
