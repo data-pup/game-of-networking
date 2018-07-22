@@ -1,4 +1,4 @@
-# Tokio Game of Life
+# Game of Networking
 
 This repository contains a (WIP) implementation of Conway's Game of Life.
 There is an important caveat to this implementation however: it aims to be
